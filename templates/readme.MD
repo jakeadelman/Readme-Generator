@@ -1,5 +1,10 @@
-## {{ title }}
+## {{ title }} 
+{{ liscence }}
 
+# Table of contents
+[Description](#description)
+
+<a name="description"/>
 # Description
 {{ description }}
 
@@ -14,3 +19,9 @@
 
 # Test Instructions
 {{ testInstructions }}
+
+# Questions
+For all questions or concerns please contact {{ github }} or email {{ email }}.
+
+# Liscence
+{{ liscenceInformation }}
