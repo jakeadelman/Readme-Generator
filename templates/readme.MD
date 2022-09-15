@@ -1,7 +1,7 @@
-## {{ title }} 
+# {{ title }} 
 {{ liscence }}
 
-# Table of contents
+## Table of contents
 * [Description](#description)
 * [Installation Instructions](#installation)
 * [Usage Information](#usage)
@@ -13,35 +13,35 @@
 
 <a name="description"></a>
 
-# Description
+## Description
 {{ description }}
 
 <a name="installation"></a>
 
-# Installation Instructions
+## Installation Instructions
 {{ installationInstructions }}
 
 <a name="usage"></a>
 
-# Usage Information
+## Usage Information
 {{ usageInformation }}
 
 <a name="contribution"></a>
 
-# Contribution Guidelines
+## Contribution Guidelines
 {{ contributionGuidelines }}
 
 <a name="test"></a>
 
-# Test Instructions
+## Test Instructions
 {{ testInstructions }}
 
 <a name="questions"></a>
 
-# Questions
+## Questions
 For all questions or concerns please contact {{ github }} or email {{ email }}.
 
 <a name="liscence"></a>
 
-# Liscence
+## Liscence
 {{ liscenceInformation }}
