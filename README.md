@@ -16,6 +16,7 @@ Readme Generator is a command line tool for generating beautiful markdown files 
 ## Usage instructions
 Simply clone the repository and npm install to install the packages. Then run "node app.js" to start the command line tool. Enter your information you would like displayed on the readme.MD file. The output file will be created to /output in the project repo.
 
+![demo image](https://github.com/jakeadelman/Readme-Generator/blob/main/images/Screen%20Shot%202022-09-15%20at%204.47.21%20PM.png)
 
 
 <a name="liscence"></a>
