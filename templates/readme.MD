@@ -2,14 +2,13 @@
 {{ liscence }}
 
 # Table of contents
-<ul>
-<li>[Description](#description)</li>
-<li>[Installation Instructions](#installation)</li>
-[Usage Information](#usage)
-[Contribution Guidelines](#contribution)
-[Test Instructions](#test)
-[Questions](#questions)
-[Liscence](#liscence)
+* [Description](#description)
+* [Installation Instructions](#installation)
+* [Usage Information](#usage)
+* [Contribution Guidelines](#contribution)
+* [Test Instructions](#test)
+* [Questions](#questions)
+* [Liscence](#liscence)
 </ul>
 
 <a name="description"></a>
